@@ -1,0 +1,1 @@
+FB app making the sentiment analysis of facebook statuses
